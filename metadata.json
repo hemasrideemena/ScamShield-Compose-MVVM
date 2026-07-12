@@ -1,0 +1,6 @@
+{
+  "name": "ScamShield AI",
+  "description": "AI-Powered Fraud & Scam Detection Platform to report and verify scams, analyze phone numbers and links, and chat with an expert AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
